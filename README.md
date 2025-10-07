@@ -18,12 +18,15 @@ O sistema PetCare Hub é um sistema simples de gerenciamento de tutores e animai
 ## 🔧 Instalação
 
 1. Clone o repositório:
-git clone https://github.com/marcos-willian1/ChallengeWeek4.git
+git clone
+```
+https://github.com/marcos-willian00/PetCare-Hub.git
+```
 
-2. Navegue até o diretório do projeto:
+3. Navegue até o diretório do projeto:
 cd vetclinic
 
-3. Instale as dependências:
+4. Instale as dependências:
 npm install
 
 ## ⚙️Uso
@@ -31,8 +34,10 @@ npm install
 1. Inicie o servidor:
 npm run dev
 
-2. O servidor estará em execução em http://localhost:5000.
-
+2. O servidor estará em execução em
+```
+http://localhost:5000.
+```
 ## Rotas disponíveis
 
 - GET `/tutors`: Recupera todos os tutores cadastrados.
@@ -46,4 +51,3 @@ npm run dev
 Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou correções de bugs, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ---
-⌨️ com ❤️ por [Marcos Willian](https://github.com/marcos-willian1) 
